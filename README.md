@@ -3,4 +3,4 @@
 
 ---
 
-The purpose of this project is to utilize the lessons I have learned about HTML and putting together a recipe.
+The purpose of this project is to utilize the lessons I have learned about HTML and put together a recipe.
